@@ -10,7 +10,7 @@ Materiales utilizados:
 -Servo 180°
 -Arduino UNO
 -brújula QMC5883L
--Level shifter de 4 canales (conversor de 5v a 3,1V)
+-Level shifter de 4 canales (conversor de 5v a 3,3V)
 -2 pulsadores
 -1 led
 -resistencias: 2 de 10K y 1 de 330.
