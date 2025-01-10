@@ -4,7 +4,7 @@ Permite al no vidente saber hacia dirección está yendo y mantenerse.
 
 Este ejemplo se realiza con un servo posicional de 180° ya que no es fácil conseguir uno que sea posicional de 360°(la mayoría son de rotación continua). 
 
-*Este ejemplo es solo un prototipo, idealmente debe miniaturizarse. 
+* Este ejemplo es solo un prototipo, idealmente debe miniaturizarse. 
 
 Materiales utilizados: 
 ----------------------
@@ -31,11 +31,11 @@ DOCUMENTACIÓN:
 --------------
 https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module/blob/master/QMC5883L%20Datasheet%201.0%20.pdf
 
->>Declinación Magnética: Cada lugar del mundo tiene su propia declinación magnética
+* Declinación Magnética: Cada lugar del mundo tiene su propia declinación magnética
 https://www.isndf.com.ar/curso/declinacion-magnetica/
 https://collections.lib.uwm.edu/digital/collection/agdm/id/11610/
 
->>Librería utilizada: Para que funcione tiene que utilizarse la siguiente librería. Se puede descargar desde Arduino IDE en "Manage Libraries..."
+* Librería utilizada: Para que funcione tiene que utilizarse la siguiente librería. Se puede descargar desde Arduino IDE en "Manage Libraries..."
 https://github.com/mprograms/QMC5883LCompass (QMC5883L Compass Arduino Library by MPrograms)
 
 
