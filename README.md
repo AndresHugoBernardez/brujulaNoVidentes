@@ -26,3 +26,16 @@ La brújula siempre apunta al Norte, a menos que se presione el segundo botón q
 
 VIDEO: https://www.youtube.com/watch?v=Hrc1E1AIdSQ
 
+
+DOCUMENTACIÓN: 
+--------------
+https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module/blob/master/QMC5883L%20Datasheet%201.0%20.pdf
+
+>>Declinación Magnética: Cada lugar del mundo tiene su propia declinación magnética
+https://www.isndf.com.ar/curso/declinacion-magnetica/
+https://collections.lib.uwm.edu/digital/collection/agdm/id/11610/
+
+>>Librería utilizada: Para que funcione tiene que utilizarse la siguiente librería. Se puede descargar desde Arduino IDE en "Manage Libraries..."
+https://github.com/mprograms/QMC5883LCompass (QMC5883L Compass Arduino Library by MPrograms)
+
+
