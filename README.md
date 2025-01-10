@@ -38,4 +38,8 @@ https://collections.lib.uwm.edu/digital/collection/agdm/id/11610/
 * Librería utilizada: Para que funcione tiene que utilizarse la siguiente librería. Se puede descargar desde Arduino IDE en "Manage Libraries..."
 https://github.com/mprograms/QMC5883LCompass (QMC5883L Compass Arduino Library by MPrograms)
 
+Mejoras:
+-------------
+Podría reemplazarse el servo por un motor paso a paso pero deberá detectarse una posición inicial mediante algún sistema al iniciar para tener una referencia.
+
 
