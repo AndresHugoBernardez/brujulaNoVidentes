@@ -41,6 +41,6 @@ https://github.com/mprograms/QMC5883LCompass (QMC5883L Compass Arduino Library b
 Mejoras:
 -------------
 Podría reemplazarse el servo por un motor paso a paso pero deberá detectarse una posición inicial mediante algún sistema al iniciar para tener una referencia.
-Actualización: 2024/01/18 Se creó el modelo del motor paso a paso, está en la carpeta correspondiente en este repositorio. 
+Actualización: 2025/01/18 Se creó el modelo del motor paso a paso, está en la carpeta correspondiente en este repositorio. 
 
 
