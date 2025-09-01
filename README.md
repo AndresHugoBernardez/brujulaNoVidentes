@@ -38,9 +38,12 @@ https://collections.lib.uwm.edu/digital/collection/agdm/id/11610/
 * Librería utilizada: Para que funcione tiene que utilizarse la siguiente librería. Se puede descargar desde Arduino IDE en "Manage Libraries..."
 https://github.com/mprograms/QMC5883LCompass (QMC5883L Compass Arduino Library by MPrograms)
 
-Mejoras:
--------------
+Mejoras:paso----------
 Podría reemplazarse el servo por un motor paso a paso pero deberá detectarse una posición inicial mediante algún sistema al iniciar para tener una referencia.
 Actualización: 2025/01/18 Se creó el modelo del motor paso a paso, está en la carpeta correspondiente en este repositorio. 
 
+31/08/2025 usar esta fórmula para una calibracion addetectarse
+
+ asumiendo que signo(0)=+1 entonces 
+(ángulo de rumbo)=arccos((mx-offset)*scalex)*signo(my-offsety)*signo(mz-offsetz) con lo cual necesitamos 5 mediciones para estimar los valores ángulo de rumbo, scalex, offsetx, offsety y offsetz.??
 
